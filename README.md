@@ -1,14 +1,24 @@
 # A4CA Screen
 
+[简体中文](README.md) | [English](README.en.md)
+
 ### 让医疗数据跃然于三维大屏之上
 
 一个基于 **Vue 3 + Three.js + ECharts** 的医疗数据可视化大屏。以立体中国地图为视觉中心，将地域分布、服务趋势与患者画像汇聚到同一画面，为数据大屏、Web 3D 和数字孪生可视化提供可运行的前端参考。
 
 ![Vue 3](https://img.shields.io/badge/Vue-3-42b883?logo=vuedotjs&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-3D-black?logo=threedotjs) ![ECharts](https://img.shields.io/badge/Apache%20ECharts-Visualization-aa344d) ![Vite](https://img.shields.io/badge/Vite-4-646cff?logo=vite&logoColor=white)
 
-![A4CA Screen 动态演示](docs/media/demo.gif)
+## 项目展示
 
-[查看完整大屏截图](docs/media/screenshot.jpg) · [下载演示录像（1080p，约 9 fps）](docs/media/demo-capture.mp4)
+### 大屏截图
+
+![A4CA Screen 医疗数据可视化大屏全景](docs/media/screenshot.jpg)
+
+### 动态预览
+
+![A4CA Screen 三维地图及数据面板动态预览](docs/media/demo.gif)
+
+[查看原始 GIF](docs/media/demo.gif) · [下载演示录像（1080p，约 9 fps）](docs/media/demo-capture.mp4)
 
 ## 项目介绍
 
@@ -61,6 +71,10 @@ docs/media/              # 项目展示素材
 ## 参与交流
 
 欢迎通过 Issue 分享使用场景、提出问题或建议，也欢迎提交改进。若这个项目对你的数据可视化实践有所帮助，欢迎点一个 Star，让更多开发者发现它。
+
+## 关键词
+
+医疗数据可视化 · 数据可视化大屏 · 三维地图 · 中国地图可视化 · 数字孪生展示 · 智慧医疗 · 数据驾驶舱 · Vue 3 · Three.js · ECharts · WebGL · 3D Map · Healthcare Dashboard · Data Visualization · Digital Twin
 
 ## 致谢与素材说明
 
