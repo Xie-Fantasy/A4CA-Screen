@@ -1,12 +1,26 @@
-# A4CA Screen
+<h1 align="center">A4CA Screen</h1>
 
-[简体中文](README.md) | [English](README.en.md)
+<h3 align="center">让医疗数据跃然于三维大屏之上</h3>
 
-### 让医疗数据跃然于三维大屏之上
+<p align="center"><strong>以三维中国地图为中心的医疗数据可视化大屏</strong></p>
+<p align="center">Vue 3 · Three.js · ECharts · WebGL</p>
+<p align="center"><em>从地域分布到患者画像，让数据在同一画面中呈现。</em></p>
 
-一个基于 **Vue 3 + Three.js + ECharts** 的医疗数据可视化大屏。以立体中国地图为视觉中心，将地域分布、服务趋势与患者画像汇聚到同一画面，为数据大屏、Web 3D 和数字孪生可视化提供可运行的前端参考。
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue-3-42b883?logo=vuedotjs&amp;logoColor=white" alt="Vue 3">
+  <img src="https://img.shields.io/badge/Three.js-3D-black?logo=threedotjs" alt="Three.js">
+  <img src="https://img.shields.io/badge/Apache%20ECharts-Visualization-aa344d" alt="ECharts">
+  <img src="https://img.shields.io/badge/Vite-4-646cff?logo=vite&amp;logoColor=white" alt="Vite">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue" alt="MIT License"></a>
+</p>
 
-![Vue 3](https://img.shields.io/badge/Vue-3-42b883?logo=vuedotjs&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-3D-black?logo=threedotjs) ![ECharts](https://img.shields.io/badge/Apache%20ECharts-Visualization-aa344d) ![Vite](https://img.shields.io/badge/Vite-4-646cff?logo=vite&logoColor=white)
+<p align="center">
+  <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> ·
+  <a href="#项目展示">项目展示</a> · <a href="#功能亮点">功能亮点</a> ·
+  <a href="#快速开始">快速开始</a> · <a href="#项目结构">项目结构</a> · <a href="#参与交流">参与交流</a>
+</p>
+
+<p align="center"><a href="docs/media/demo-capture.mp4">观看 / 下载演示录像（1080p，约 9 fps）</a></p>
 
 ## 项目展示
 

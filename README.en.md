@@ -1,12 +1,26 @@
-# A4CA Screen
+<h1 align="center">A4CA Screen</h1>
 
-[简体中文](README.md) | [English](README.en.md)
+<h3 align="center">Bring healthcare data to life on a 3D dashboard</h3>
 
-### Bring healthcare data to life on a 3D dashboard
+<p align="center"><strong>A healthcare visualization dashboard centered on a 3D map of China.</strong></p>
+<p align="center">Vue 3 · Three.js · ECharts · WebGL</p>
+<p align="center"><em>From geographic distribution to patient demographics, all in one view.</em></p>
 
-A healthcare data visualization dashboard built with **Vue 3, Three.js and Apache ECharts**. A 3D map of China sits at the center of a large-screen display, surrounded by service trends, geographic distribution and patient demographics. Explore a working front-end example for WebGL maps, data dashboards and digital twin visualization interfaces.
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue-3-42b883?logo=vuedotjs&amp;logoColor=white" alt="Vue 3">
+  <img src="https://img.shields.io/badge/Three.js-3D-black?logo=threedotjs" alt="Three.js">
+  <img src="https://img.shields.io/badge/Apache%20ECharts-Visualization-aa344d" alt="ECharts">
+  <img src="https://img.shields.io/badge/Vite-4-646cff?logo=vite&amp;logoColor=white" alt="Vite">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue" alt="MIT License"></a>
+</p>
 
-![Vue 3](https://img.shields.io/badge/Vue-3-42b883?logo=vuedotjs&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-3D-black?logo=threedotjs) ![ECharts](https://img.shields.io/badge/Apache%20ECharts-Visualization-aa344d) ![Vite](https://img.shields.io/badge/Vite-4-646cff?logo=vite&logoColor=white)
+<p align="center">
+  <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> ·
+  <a href="#preview">Preview</a> · <a href="#features">Features</a> ·
+  <a href="#getting-started">Getting started</a> · <a href="#project-structure">Project structure</a> · <a href="#contributing">Contributing</a>
+</p>
+
+<p align="center"><a href="docs/media/demo-capture.mp4">Watch / download the demo recording (1080p, approximately 9 fps)</a></p>
 
 ## Preview
 
